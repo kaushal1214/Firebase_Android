@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_9247a3b5bdac96697cd9d55b14cc913d47a24959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.0_49fbae65712e1efa89f64ad5298df1738ea61db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_4f7e329df4f1d9b619315aabafd73d781374ef88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/glide-3.6.1_91066906ac0b903c92bdf86201e06a31c5952bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.6.0_d999f08d59e10f837f0834ad0eb014d7bd5f5a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_73b11d222d298c6257406041bb85776214383139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_8f32b36c7b8c05d8405f3201947b1d61bec690ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_8985fa318a988831251a3eaa1b5c307536acf24b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_7800ef54911da0789cee18f7a621db74f45d6494.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_1192cec3e29dc80ab68c0c8739c63ce1600670c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_dde4647e231a50ef42ba54cd32800591b45ba8b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_1e4e5c1b2dc537f39da747c0e4e9f448c1450972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.0_2b8a84840197664b6c8edcbde6f89b52588fa966.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_890688a0182b87c232ced0b3c163000c3b0db825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_06dede93bf95ce9e54ac678bfe480d7fdca37b33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_cf5e1aa642db059d6c13c70ee74d6c5927beb293.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.0_c4505d297d8006361a259248378c4fb3a532c954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.0_d02c3ffffdf39e05472068bf6f654d4af4c4106e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_3276a3fe7f4847b3bc4893fe07d633242c3fdcf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_6920df51d0e6c6bdb9a63aad4aed61ff02d768a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_bb364c6782ac3082ee6caf0046c0425520d7c38e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_f50e00645c449c0044178d41240b813ff9d6459b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_9f3bda71fd20e21d7544c9785fcc0702ba2775d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_44d17f5627923da742388c41be5890114b3bc904.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_b32e1a03017aaeb01c556057ceb433fa2daf57a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.0_1ef5558b6d74b0bab1f371501fb5fc703026d6ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_f661006cf55e78e03ccd0e1ebad47576707cb4f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_9051aa94c03d55c9926b81ca6042f018068f5656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.6.0_52e4b5a8d6e79fff6589db24fca4e30abb8613f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_841898b1c1a0cfd2333126b47885a8ede0597e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_7f93c8b9a785caebce9d0a671152838ec3871c98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_d0c04cacf50e638d28b1910475e47898cf650775.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_d516605d00ef269e1da8408dbd7c0f356b2eaf90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_aeefa63fd4d0cef01394c1f7160714dbc5471180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_0c67a12f2ae136ac21a249368bfa8c83fd956ffd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_f95e816c87d43e6554e312abdc0ff0af0601b24e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_96ceada1be0aca03711200f9dc412fb7014397a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.0_cd5413ec30bf4dc6115c87fab4dab29ca4718d4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_c39d5f1e53cb3b063ac286b7de9b0729643e3464.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.0_1d5105f0f3292cbffd363289cb2fd82f78298cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_308483783bb3c12b16f47a5a15788f1c9ca78f74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/kaushal/AndroidStudioProjects/FirbaseAuth/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_ef9e43673d30dc2c2f0a08a32c1c0feb4e87d213.jar" />
+    </item>
+
+</items>
